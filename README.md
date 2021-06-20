@@ -30,7 +30,8 @@ https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 
 **Type of Request:** _Is this request a personal request or something that would benefit multiple people?_
 
-## Team
-Lead Designer/Artist: Halliwedge
+## The Team
+
+**Lead Designer/Artist: Halliwedge
 Lead Developer: Jronz
-Deployment/Server Management: BJS
+Deployment/Server Management: BJS**
