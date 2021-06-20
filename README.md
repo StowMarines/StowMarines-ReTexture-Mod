@@ -36,4 +36,4 @@ https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 
 **Lead Developer:** Jronz
 
-**Deployment/Server** Management: BJS
+**Deployment/Server Management:** BJS
