@@ -4,9 +4,7 @@ This project is run by Halliwedge and Jronz and aims to bring more variety and h
 ## Bug/Issue/Error Reporting
 https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 
-### Title: _Name for the issue_**
-
-### Main Text:**
+**Title:** _Name for the issue_
 
 **Item/Vehicle in question:** _The equipment or vehicle that has the problem_
 
