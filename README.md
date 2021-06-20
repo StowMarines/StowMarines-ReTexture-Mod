@@ -1,11 +1,11 @@
 # StowMarines-ReTexture-Mod
 This project is run by Halliwedge and Jronz and aims to bring more variety and higher quality textures for vehicles as well as the ability for customization of uniforms/equipment including inisignias
 
-If you have come across a bug/issue/error, please report it here using the below format: https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
+**If you have come across a bug/issue/error, please report it here using the below format: https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 
-Title: _Name for the issue_
+#Title: _Name for the issue_
 
-Main Text:
+#Main Text:
 
 Item/Vehicle in question: _The equipment or vehicle that has the problem_
 
