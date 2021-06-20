@@ -8,7 +8,7 @@ https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 
 **Item/Vehicle in question:** _The equipment or vehicle that has the problem_
 
-**When/Where it occured:** _During the last operation/training session/mid-week on X date etc_
+**When/Where it occurred:** _During the last operation/training session/mid-week on X date etc_
 
 **Details:** _Please detail the problem as best as you can_
 
