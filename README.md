@@ -29,3 +29,7 @@ https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 **Media:** _Any images/videos etc to explain your request better_
 
 **Type of Request:** _Is this request a personal request or something that would benefit multiple people?_
+
+Lead Designer/Artist: Halliwedge
+Lead Developer: Jronz
+Deployment/Server Management: BJS
