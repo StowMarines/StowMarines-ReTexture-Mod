@@ -32,6 +32,8 @@ https://github.com/StowMarines/StowMarines-ReTexture-Mod/issues/new
 
 ## The Team
 
-**Lead Designer/Artist: Halliwedge
-Lead Developer: Jronz
-Deployment/Server Management: BJS**
+**Lead Designer/Artist:** Halliwedge
+
+**Lead Developer:** Jronz
+
+**Deployment/Server** Management: BJS
